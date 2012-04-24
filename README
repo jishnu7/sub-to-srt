@@ -1,0 +1,5 @@
+Description:
+Program to convert subtitles in sub format to srt.
+
+Usage : 
+sub_to_srt <source file> <destination> <frame rate of video> <(optional) Time span in hour:min:sec:milli sec format>
